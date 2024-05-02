@@ -1,5 +1,4 @@
-## As an aspiring Full-Stack Developer, tech enthusiast, and lifelong learner, I dive into multiple technologies. Whether it's DevOps, genAI, or any other cutting-edge field, I'm actively involved and passionate about exploring all of them. My goal is to become a generalist engineer who can engineer things and build the stuff he dreams of, guided by the motto "let my curiosity guide my way"
-
+# As an Aspiring Full-Stack Developer, tech enthusiast, and lifelong learner, I dive into multiple technologies. Whether it's DevOps, genAI, or any other cutting-edge field, I'm actively involved and passionate about exploring all of them. My goal is to become a generalist engineer who can engineer things and build the stuff he dreams of, guided by the motto "let my curiosity guide my way"
 
 
 - Learning how to code.
