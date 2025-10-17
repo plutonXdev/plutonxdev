@@ -1,5 +1,3 @@
- - guided by the motto "let my curiosity guide my way"
-
 
   <img src="https://i.redd.it/bpxxqqvps4h91.gif" height="340px" width="90%" text-align= "center" />
 
